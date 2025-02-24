@@ -27,6 +27,6 @@ Resume -  http://tiny.cc/MeghnaDesai
 Scholarships Received: ISC2 - CISSP certification, WiCyS 2024 and 2025, Grace Hopper Conference (GHC) 2024 
 
 <div align="center">
-    <img src="[http://4.bp.blogspot.com/-qTS_smgj7Mk/VgBjDLPs-FI/AAAAAAAAUFQ/rjZ9qQUHxY4/s1600/lifting-up-glass.gif]" height="175" />
+    <img src="http://4.bp.blogspot.com/-qTS_smgj7Mk/VgBjDLPs-FI/AAAAAAAAUFQ/rjZ9qQUHxY4/s1600/lifting-up-glass.gif" height="175" />
     <p>Have a good one!</p>
 </div>
