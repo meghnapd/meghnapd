@@ -24,9 +24,9 @@ Resume -  http://tiny.cc/MeghnaDesai
 
 🍄 In my free time you might find me: reading a book, playing with dogs, cycling or baking :)
 
-Scholarships Received: ISC2 - CISSP certification, WiCyS 2024 and 2025, Grace Hopper Conference (GHC) 2024 
+💫 Scholarships Received: ISC2 - CISSP certification, WiCyS 2024 and 2025, Grace Hopper Conference (GHC) 2024 
 
 <div align="center">
-    <img src="http://4.bp.blogspot.com/-qTS_smgj7Mk/VgBjDLPs-FI/AAAAAAAAUFQ/rjZ9qQUHxY4/s1600/lifting-up-glass.gif" height="175" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZnZTIxenJtOGc3bDh1Z3M5MWUyZms5dDhvM2Y2bG53MXRrNDRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPuhFBQt8xLEY/giphy.gif" height="175" />
     <p>Have a good one!</p>
 </div>
